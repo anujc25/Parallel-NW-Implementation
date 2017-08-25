@@ -1,0 +1,1000 @@
+  956  nvcc nw.cu 
+  957  ./a.out ACGTAAGT TGCCAGTG
+  958  nvcc nw.cu 
+  959  ./a.out ACGTAAGT TGCCAGTG
+  960  cd ../test/
+  961  nvcc test.cu 
+  962  ./a.out 
+  963  nvcc test.cu 
+  964  ./a.out 
+  965  nvcc test.cu 
+  966  ./a.out 
+  967  nvcc test.cu 
+  968  ./a.out 
+  969  nvcc test.cu 
+  970  ./a.out 
+  971  nvcc test.cu 
+  972  ./a.out 
+  973  nvcc test.cu 
+  974  ./a.out 
+  975  nvcc test.cu 
+  976  ./a.out 
+  977  nvcc test.cu 
+  978  ./a.out 
+  979  nvcc test.cu 
+  980  ./a.out 
+  981  nvcc test.cu 
+  982  ./a.out 
+  983  nvcc test.cu 
+  984  ./a.out 
+  985  nvcc test.cu 
+  986  ./a.out 
+  987  nvcc test.cu 
+  988  ./a.out 
+  989  nvcc test.cu 
+  990  ./a.out 
+  991  nvcc test.cu 
+  992  ./a.out 
+  993  nvcc test.cu 
+  994  ./a.out 
+  995  nvcc test.cu 
+  996  ./a.out 
+  997  nvcc test.cu 
+  998  ./a.out 
+  999  nvcc test.cu 
+ 1000  ./a.out 
+ 1001  nvcc test.cu 
+ 1002  git log
+ 1003  cd ../nw_par_2/
+ 1004  git log
+ 1005  git reset 101363b9e80858a210511155cad136a3b1a38355
+ 1006  git reset --hard  101363b9e80858a210511155cad136a3b1a38355
+ 1007  nvcc nw.cu 
+ 1008  ./a.out ACGTAAGT TGCCAGTG
+ 1009  git log
+ 1010  nvcc nw.cu 
+ 1011  git log
+ 1012  ./a.out ACGTAAGT TGCCAGTG
+ 1013  git log
+ 1014  nvcc nw.cu 
+ 1015  ./a.out ACGTAAGT TGCCAGTG
+ 1016  nvcc nw.cu 
+ 1017  ./a.out ACGTAAGT TGCCAGTG
+ 1018  nvcc nw.cu 
+ 1019  ./a.out ACGTAAGT TGCCAGTG
+ 1020  nvcc nw.cu 
+ 1021  ./a.out ACGTAAGT TGCCAGTG
+ 1022  nvcc nw.cu 
+ 1023  ./a.out ACGTAAGT TGCCAGTG
+ 1024  nvcc nw.cu 
+ 1025  ./a.out ACGTAAGT TGCCAGTG
+ 1026  nvcc nw.cu 
+ 1027  ./a.out ACGTAAGT TGCCAGTG
+ 1028  nvcc nw.cu 
+ 1029  ./a.out ACGTAAGT TGCCAGTG
+ 1030  nvcc nw.cu 
+ 1031  ./a.out ACGTAAGT TGCCAGTG
+ 1032  nvcc nw.cu 
+ 1033  ./a.out ACGTAAGT TGCCAGTG
+ 1034  nvcc nw.cu 
+ 1035  ./a.out ACGTAAGT TGCCAGTG
+ 1036  nvcc nw.cu 
+ 1037  ./a.out ACGTAAGT TGCCAGTG
+ 1038  nvcc nw.cu 
+ 1039  ./a.out ACGTAAGT TGCCAGTG
+ 1040  nvcc nw.cu 
+ 1041  ./a.out ACGTAAGT TGCCAGTG
+ 1042  nvcc nw.cu 
+ 1043  ./a.out ACGTAAGT TGCCAGTG
+ 1044  git log 
+ 1045  git reset --hard 101363b9e80858a210511155cad136a3b1a38355
+ 1046  nvcc nw.cu 
+ 1047  ./a.out ACGTAAGT TGCCAGTG
+ 1048  nvcc nw.cu 
+ 1049  ./a.out ACGTAAGT TGCCAGTG
+ 1050  nvcc nw.cu 
+ 1051  ./a.out ACGTAAGT TGCCAGTG
+ 1052  nvcc nw.cu 
+ 1053  ./a.out ACGTAAGT TGCCAGTG
+ 1054  nvcc nw.cu 
+ 1055  ./a.out ACGTAAGT TGCCAGTG
+ 1056  nvcc nw.cu 
+ 1057  ./a.out ACGTAAGT TGCCAGTG
+ 1058  nvcc nw.cu 
+ 1059  ./a.out ACGTAAGT TGCCAGTG
+ 1060  nvcc nw.cu 
+ 1061  ./a.out ACGTAAGT TGCCAGTG
+ 1062  nvcc nw.cu 
+ 1063  ./a.out ACGTAAGT TGCCAGTG
+ 1064  nvcc nw.cu 
+ 1065  ./a.out ACGTAAGT TGCCAGTG
+ 1066  nvcc nw.cu 
+ 1067  ./a.out GCATGCUA GATTACAA 
+ 1068  nvcc nw.cu 
+ 1069  ./a.out GCATGCUA GATTACAA 
+ 1070  nvcc nw.cu 
+ 1071  ./a.out GCATGCUA GATTACAA 
+ 1072  nvcc nw.cu 
+ 1073  ./a.out GCATGCUA GATTACAA 
+ 1074  nvcc nw.cu 
+ 1075  ./a.out GCATGCUA GATTACAA 
+ 1076  gprof ./a.out GCATGCUA GATTACAA 
+ 1077  ./a.out GCATGCUA GATTACAA 
+ 1078  gprof ./a.out GCATGCUA GATTACAA 
+ 1079  gprof ./a.out 
+ 1080  nvprof ./a.out GCATGCUA GATTACAA 
+ 1081  ./a.out GCATGCUA GATTACAA 
+ 1082  nvcc nw.cu 
+ 1083  ./a.out GCATGCUA GATTACAA 
+ 1084  nvcc nw.cu 
+ 1085  ./a.out GCATGCUA GATTACAA 
+ 1086  ./a.out GCATGCU GATTACA 
+ 1087  nvcc nw.cu 
+ 1088  ./a.out GCATGCU GATTACA 
+ 1089  nvcc nw.cu 
+ 1090  ./a.out GCATGCU GATTACA 
+ 1091  nvcc nw.cu 
+ 1092  ./a.out GCATGCU GATTACA 
+ 1093  nvcc nw.cu 
+ 1094  ./a.out GCATGCU GATTACA 
+ 1095  nvcc nw.cu 
+ 1096  ./a.out GCATGCU GATTACA 
+ 1097  nvcc nw.cu 
+ 1098  ./a.out GCATGCU GATTACA 
+ 1099  nvcc nw.cu 
+ 1100  ./a.out GCATGCU GATTACA 
+ 1101  nvcc nw.cu 
+ 1102  ./a.out GCATGCU GATTACA 
+ 1103  nvcc nw.cu 
+ 1104  ./a.out GCATGCU GATTACA 
+ 1105  nvcc nw.cu 
+ 1106  ./a.out GCATGCU GATTACA 
+ 1107  nvcc nw.cu 
+ 1108  ./a.out GCATGCU GATTACA 
+ 1109  nvcc nw.cu 
+ 1110  ./a.out GCATGCU GATTACA 
+ 1111  nvcc nw.cu 
+ 1112  ./a.out GCATGCU GATTACA 
+ 1113  nvcc nw.cu 
+ 1114  ./a.out GCATGCU GATTACA 
+ 1115  ./a.out AGTC AGTC
+ 1116  clear
+ 1117  git commit -a -m "Final with kernel all"
+ 1118  git remote add origin git@bitbucket.org:anuj2512/nw.git
+ 1119  git push origin master 
+ 1120  cd ..
+ 1121  cd nw_par/
+ 1122  ls
+ 1123  clear
+ 1124  git log 
+ 1125  clear
+ 1126  nvcc nw.cu 
+ 1127  ./a.out GCATGCU GATTACA 
+ 1128  cd repos/nw_par/
+ 1129  nvcc nw.cu 
+ 1130  ./a.out GCATGCU GATTACA 
+ 1131  cd Documents/libs/velvet_1.2.07/
+ 1132  ./velveth /output1 4 MYFASTA1.fa 
+ 1133  ./velveth /output1 3 MYFASTA1.fa 
+ 1134  su
+ 1135  sudo apt-get install gnome-search-tool
+ 1136  gnome-search-tool
+ 1137  gnome-search-tool &
+ 1138  cd Documents/libs/velvet_1.2.07/
+ 1139  make
+ 1140  ./velveth /output1 4 MYFASTA1.fa 
+ 1141  ./velveth output1 4 MYFASTA1.fa 
+ 1142  su
+ 1143  wget http://mirror.cyanogenmod.org/jenkins/99248/cm-12-20150129-NIGHTLY-bacon.zip
+ 1144  cd Documents/libs/velvet_1.2.07/
+ 1145  make
+ 1146  ./velveth /output1 4 read1.fa 
+ 1147  ./velveth /output1 3 read1.fa 
+ 1148  su
+ 1149  cd Documents/libs/velvet_my/
+ 1150  make
+ 1151  ./velveth output2 15 read1.fa 
+ 1152  cd ..
+ 1153  cd velvet_1.2.07/
+ 1154  ./velveth output2 15 read1.fa 
+ 1155  su
+ 1156  cd repos/test/
+ 1157  nvcc test.c 
+ 1158  nvcc test.cu
+ 1159  cd ..
+ 1160  ls
+ 1161  cd Documents/
+ 1162  cd libs/
+ 1163  ls
+ 1164  cd velvet_my/
+ 1165  make
+ 1166  cd Documents/libs/velvet_my/
+ 1167  ./velveth output2 15 read1.fa 
+ 1168  make
+ 1169  ./velveth output2 15 read1.fa 
+ 1170  make
+ 1171  ./velveth output2 15 read1.fa 
+ 1172  make
+ 1173  ./velveth output2 15 read1.fa 
+ 1174  make
+ 1175  ./velveth output2 15 read1.fa 
+ 1176  make
+ 1177  ./velveth output2 15 read1.fa 
+ 1178  make
+ 1179  ./velveth output2 15 read1.fa 
+ 1180  make
+ 1181  ./velveth output2 15 read1.fa 
+ 1182  make
+ 1183  ./velveth output2 15 read1.fa 
+ 1184  make
+ 1185  ./velveth output2 15 read1.fa 
+ 1186  make
+ 1187  ./velveth output2 15 read1.fa 
+ 1188  make
+ 1189  ./velveth output2 15 read1.fa 
+ 1190  make
+ 1191  make velveth
+ 1192  ./velveth output2 15 read1.fa 
+ 1193  make velveth
+ 1194  nvcc -c src/tightString.cu
+ 1195  make velveth
+ 1196  cd Downloads/Sublime\ Text\ 2/
+ 1197  py PackageSetup.py 
+ 1198  python
+ 1199  python PackageSetup.py 
+ 1200  python sublime_plugin.py 
+ 1201  sudo apt-get remove sublime
+ 1202  sudo apt-get remove sublime-text
+ 1203  sudo add-apt-repository ppa:webupd8team/sublime-text-2
+ 1204  sudo apt-get update
+ 1205  sudo apt-get install sublime-text
+ 1206  cd ../..
+ 1207  cd Documents/libs/velvet_my/
+ 1208  make velveth 
+ 1209  cd Documents/libs/velvet_my/
+ 1210  make velveth
+ 1211  cd repos/test/
+ 1212  nvcc test.c 
+ 1213  nvcc test.cu 
+ 1214  ./a.out 
+ 1215  nvcc test.cu 
+ 1216  ./a.out 
+ 1217  cd ..
+ 1218  ls
+ 1219  cd old_backups/
+ 1220  ls
+ 1221  cd ..
+ 1222  cd test/
+ 1223  nvcc vectorAdd.cu 
+ 1224  ./a.out 
+ 1225  cd Documents/libs/
+ 1226  ls
+ 1227  cd velvet_my/
+ 1228  make velveth 
+ 1229  cd ..
+ 1230  cd velvet_rowm/
+ 1231  make
+ 1232  make velveth
+ 1233  cd src/
+ 1234  nvcc fillTightStringWithString.cu
+ 1235  nvcc -c fillTightStringWithString.cu
+ 1236  make velveth
+ 1237  cd ..
+ 1238  make velveth
+ 1239  gcc  -pg -c src/run.c src/recycleBin.c src/splay.c src/splayTable.c src/readSet.c src/binarySequences.c src/utility.c src/kmer.c src/kmerOccurenceTable.c src/autoOpen.c $(Z_LIB_FILES) $(LIBS)
+ 1240  nvcc -arch=sm_20 -c src/fillTightStringWithString.cu
+ 1241  gcc -o velveth fillTightStringWithString.o tightString.o run.o recycleBin.o splay.o splayTable.o readSet.o binarySequences.o utility.o src/kmer.o  kmerOccurenceTable.o autoOpen.o
+ 1242  gcc  -pg -c src/run.c src/recycleBin.c src/splay.c src/splayTable.c src/readSet.c src/binarySequences.c src/utility.c src/kmer.c src/kmerOccurenceTable.c src/autoOpen.c src/readSet.c 
+ 1243  nvcc -arch=sm_20 -c src/fillTightStringWithString.cu
+ 1244  gcc -o velveth fillTightStringWithString.o tightString.o run.o recycleBin.o splay.o splayTable.o readSet.o binarySequences.o utility.o kmer.o  kmerOccurenceTable.o autoOpen.o
+ 1245  gcc  -pg -c src/run.c src/recycleBin.c src/splay.c src/splayTable.c src/readSet.c src/binarySequences.c src/utility.c src/kmer.c src/kmerOccurenceTable.c src/autoOpen.c src/readSet.c 
+ 1246  make velveth 
+ 1247  cd repos/test/vector/
+ 1248  nvcc vector_addition.cpp kernel.cu 
+ 1249  nvcc -c kernel.cu 
+ 1250  nvcc vector_addition.cpp kernel.cu 
+ 1251  ./a.out 
+ 1252  nvcc vector_addition.cpp kernel.cu cd .
+ 1253  cd ..
+ 1254  cd Documents/libs/velvet_my/
+ 1255  make velveth 
+ 1256  cd ..
+ 1257  cd velvet_rowm/
+ 1258  make velveth
+ 1259  ls
+ 1260  cd src/
+ 1261  ls
+ 1262  ls *.c
+ 1263  mv *.c *.cpp
+ 1264  ls
+ 1265  ls *.c
+ 1266  mv *.c
+ 1267  cd ..
+ 1268  make velveth 
+ 1269  clear
+ 1270  make velveth 
+ 1271  cd repos/test/vector/
+ 1272  nvcc vector_addition.c kernel.h
+ 1273  nvcc vector_addition.c kernel.cu 
+ 1274  nvcc vector_addition.c kernel.cu clear
+ 1275  cd ..
+ 1276  cd Doc
+ 1277  cs anuj/
+ 1278  cd anuj/
+ 1279  cd Documents/libs/velvet_rowm/
+ 1280  make velveth
+ 1281  ./velveth output2 15 test_reads.fa 
+ 1282  cd ..
+ 1283  cd velvet_1.2.07/
+ 1284  ./velveth output2 15 test_reads.fa 
+ 1285  su
+ 1286  cd Documents/
+ 1287  ls
+ 1288  cd libs/
+ 1289  ls
+ 1290  cd velvet_my/
+ 1291  make velveth 
+ 1292  cd ..
+ 1293  cd velvet_1.2.07/
+ 1294  ./velveth output2 15 test_reads.fa 
+ 1295  su
+ 1296  cd .
+ 1297  cd ..
+ 1298  cd velvet_rowm/
+ 1299  su
+ 1300  CD Documents/libs/velvet_my/
+ 1301  cd Documents/libs/velvet_my/
+ 1302  ls
+ 1303  make velveth
+ 1304  ./velveth output2 15 test_reads.fa 
+ 1305  make velveth
+ 1306  cd ..
+ 1307  cd velvet_my
+ 1308  make velveth
+ 1309  ./velveth output2 15 test_reads.fa 
+ 1310  make velveth
+ 1311  ./velveth output2 15 test_reads.fa 
+ 1312  make velveth
+ 1313  ./velveth output2 15 test_reads.fa 
+ 1314  make velveth
+ 1315  ./velveth output2 15 test_reads.fa 
+ 1316  make velveth
+ 1317  ./velveth output2 15 test_reads.fa 
+ 1318  cd ..
+ 1319  cd velvet_rowm/
+ 1320  ls
+ 1321  ./velveth output2 15 test_reads.fa 
+ 1322  su
+ 1323  cd Documents/libs/velvet_1.2.07_original/
+ 1324  make velveth
+ 1325  su
+ 1326  cd Documents/libs/velvet_row_my/
+ 1327  ls
+ 1328  ./velveth output2 15 test_reads.fa 
+ 1329  make velveth
+ 1330  ./velveth output2 15 test_reads.fa 
+ 1331  rm velveth
+ 1332  make velveth
+ 1333  ./velveth output2 15 test_reads.fa 
+ 1334  rm velveth
+ 1335  make velveth
+ 1336  ./velveth output2 15 test_reads.fa 
+ 1337  rm velveth
+ 1338  make velveth
+ 1339  ./velveth output2 15 test_reads.fa 
+ 1340  rm velveth
+ 1341  make velveth
+ 1342  rm velveth
+ 1343  make velveth
+ 1344  ./velveth output2 15 test_reads.fa 
+ 1345  rm velveth
+ 1346  make velveth
+ 1347  ./velveth output2 15 test_reads.fa 
+ 1348  rm velveth
+ 1349  make velveth
+ 1350  ./velveth output2 15 test_reads.fa 
+ 1351  rm velveth
+ 1352  make velveth
+ 1353  ./velveth output2 15 test_reads.fa 
+ 1354  rm velveth
+ 1355  make velveth
+ 1356  ./velveth output2 15 test_reads.fa 
+ 1357  rm velveth
+ 1358  make velveth
+ 1359  ./velveth output2 15 test_reads.fa 
+ 1360  rm velveth
+ 1361  make velveth
+ 1362  ./velveth output2 15 test_reads.fa 
+ 1363  rm velveth
+ 1364  make velveth
+ 1365  ./velveth output2 15 test_reads.fa 
+ 1366  cd ..
+ 1367  cd velvet_rowm/
+ 1368  ./velveth output2 15 test_reads.fa 
+ 1369  su
+ 1370  cd Documents/libs/velvet_row_my
+ 1371  su
+ 1372  cd Documents/libs/velvet_row_my
+ 1373  rm velveth
+ 1374  make velveth
+ 1375  su
+ 1376  cd .. 
+ 1377  cd velvet_1.2.07_original/
+ 1378  rm velveth
+ 1379  su
+ 1380  cd Documents/workspace/nw/seq/
+ 1381  gcc -pg main.cpp nw.cpp 
+ 1382  g++ -pg main.cpp nw.cpp 
+ 1383  ./a.out 
+ 1384  ./a.out TCGTACCGTAAGGAACGGTGGACTGGNTACGAGTGAGAATGTTGGCATCAGTAGCGCGATGTGGGTGAGAATCCCCCAG TTGGGATATCGCCAAGCGGTAAGGCAACGGACTTTGACTCCGTCATTCGCAGGTTCGAATCCTGCTATCCCAGCCAAAA
+ 1385  g++ -pg main.cpp nw.cpp 
+ 1386  ./a.out TCGTACCGTAAGGAACGGTGGACTGGNTACGAGTGAGAATGTTGGCATCAGTAGCGCGATGTGGGTGAGAATCCCCCAG TTGGGATATCGCCAAGCGGTAAGGCAACGGACTTTGACTCCGTCATTCGCAGGTTCGAATCCTGCTATCCCAGCCAAAA
+ 1387  g++ -pg main.cpp nw.cpp 
+ 1388  ./a.out TCGTACCGTAAGGAACGGTGGACTGGNTACGAGTGAGAATGTTGGCATCAGTAGCGCGATGTGGGTGAGAATCCCCCAG TTGGGATATCGCCAAGCGGTAAGGCAACGGACTTTGACTCCGTCATTCGCAGGTTCGAATCCTGCTATCCCAGCCAAAA
+ 1389  cd repos/nw_par/
+ 1390  nvcc nw.cu 
+ 1391  su
+ 1392  ./a.out TCGTACCGTAAGGAACGGTGGACTGGNTACGAGTGAGAATGTTGGCATCAGTAGCGCGATGTGGGTGAGAATCCCCCAG TTGGGATATCGCCAAGCGGTAAGGCAACGGACTTTGACTCCGTCATTCGCAGGTTCGAATCCTGCTATCCCAGCCAAAA
+ 1393  nvcc nw.cu 
+ 1394  ./a.out TCGTACCGTAAGGAACGGTGGACTGGNTACGAGTGAGAATGTTGGCATCAGTAGCGCGATGTGGGTGAGAATCCCCCAG TTGGGATATCGCCAAGCGGTAAGGCAACGGACTTTGACTCCGTCATTCGCAGGTTCGAATCCTGCTATCCCAGCCAAAA
+ 1395  cd Documents/libs/velvet_row_my_1/
+ 1396  su
+ 1397  cd Documents/libs/velvet_1.2.07_original/
+ 1398  su
+ 1399  wget http://www.csulb.edu/~acarter3/course-carterlab/Barrons_New_GRE_19th_ed.pdf
+ 1400  cd Documents/velvet/
+ 1401  cd ~
+ 1402  ls
+ 1403  cd Desktop/
+ 1404  ls
+ 1405  g++ 1.cpp 
+ 1406  ./a.out 
+ 1407  g++ 1.cpp 
+ 1408  ./a.out 
+ 1409  g++ 1.cpp 
+ 1410  ./a.out 
+ 1411  g++ 1.cpp 
+ 1412  ./a.out 
+ 1413  g++ 1.cpp 
+ 1414  ./a.out 
+ 1415  g++ 1.cpp 
+ 1416  ./a.out 
+ 1417  g++ 2.cpp 
+ 1418  ./a.out 
+ 1419  int m,n;
+ 1420  int a[2][3] ;
+ 1421  void print(int x , int y)
+ 1422  {     if(y<n);     {         printf("%d ",a[x][y]);
+ 1423  }
+ 1424  int main()
+ 1425  {     int i,j;     scanf("%d",&m);
+ 1426  }clear
+ 1427  clear
+ 1428  g++ 2.cpp 
+ 1429  ./a.out 
+ 1430  g++ 2.cpp 
+ 1431  ./a.out 
+ 1432  g++ 2.cpp 
+ 1433  ./a.out 
+ 1434  g++ 2.cpp 
+ 1435  ./a.out 
+ 1436  g++ 2.cpp 
+ 1437  ./a.out 
+ 1438  g++ 2.cpp 
+ 1439  ./a.out 
+ 1440  g++ 2.cpp 
+ 1441  ./a.out 
+ 1442  g++ 2.cpp 
+ 1443  ./a.out 
+ 1444  g++ 2.cpp 
+ 1445  ./a.out 
+ 1446  g++ 2.cpp 
+ 1447  ./a.out 
+ 1448  g++ 2.cpp 
+ 1449  ./a.out 
+ 1450  g++ 2.cpp 
+ 1451  ./a.out 
+ 1452  g++ 2.cpp 
+ 1453  ./a.out 
+ 1454  g++ 2.cpp 
+ 1455  ./a.out 
+ 1456  g++ 2.cpp 
+ 1457  ./a.out 
+ 1458  g++ 2.cpp 
+ 1459  ./a.out 
+ 1460  g++ 2.cpp 
+ 1461  ./a.out 
+ 1462  g++ 2.cpp 
+ 1463  ./a.out 
+ 1464  g++ 2.cpp 
+ 1465  ./a.out 
+ 1466  g++ 2.cpp 
+ 1467  ./a.out 
+ 1468  g++ 2.cpp 
+ 1469  ./a.out 
+ 1470  g++ 2.cpp 
+ 1471  ./a.out 
+ 1472  g++ 2.cpp 
+ 1473  ./a.out 
+ 1474  g++ 2.cpp 
+ 1475  ./a.out 
+ 1476  g++ 2.cpp 
+ 1477  ./a.out 
+ 1478  g++ 2.cpp 
+ 1479  ./a.out 
+ 1480  g++ 2.cpp 
+ 1481  ./a.out 
+ 1482  g++ 2.cpp 
+ 1483  ./a.out 
+ 1484  g++ 2.cpp 
+ 1485  ./a.out 
+ 1486  g++ 2.cpp 
+ 1487  ./a.out 
+ 1488  g++ 2.cpp 
+ 1489  ./a.out 
+ 1490  g++ 2.cpp 
+ 1491  ./a.out 
+ 1492  g++ 2.cpp 
+ 1493  ./a.out 
+ 1494  g++ 2.cpp 
+ 1495  ./a.out 
+ 1496  g++ 2.cpp 
+ 1497  ./a.out 
+ 1498  g++ 2.cpp 
+ 1499  ./a.out 
+ 1500  g++ 2.cpp 
+ 1501  ./a.out 
+ 1502  g++ 2.cpp 
+ 1503  ./a.out 
+ 1504  g++ 2.cpp 
+ 1505  ./a.out 
+ 1506  g++ 2.cpp 
+ 1507  ./a.out 
+ 1508  g++ 2.cpp 
+ 1509  ./a.out 
+ 1510  g++ 2.cpp 
+ 1511  ./a.out 
+ 1512  g++ 2.cpp 
+ 1513  ./a.out 
+ 1514  g++ 2.cpp 
+ 1515  ./a.out 
+ 1516  g++ 2.cpp 
+ 1517  ./a.out 
+ 1518  g++ 2.cpp 
+ 1519  ./a.out 
+ 1520  g++ 2.cpp 
+ 1521  ./a.out 
+ 1522  g++ 2.cpp 
+ 1523  ./a.out 
+ 1524  g++ 2.cpp 
+ 1525  ./a.out 
+ 1526  g++ 2.cpp 
+ 1527  ./a.out 
+ 1528  g++ 2.cpp 
+ 1529  ./a.out 
+ 1530  g++ 2.cpp 
+ 1531  ./a.out 
+ 1532  g++ 2.cpp 
+ 1533  ./a.out 
+ 1534  g++ 2.cpp 
+ 1535  ./a.out 
+ 1536  ./a.out 3 5
+ 1537  ./a.out 
+ 1538  g++ 2.cpp 
+ 1539  ./a.out 
+ 1540  g++ 2.cpp 
+ 1541  ./a.out 
+ 1542  g++ 2.cpp 
+ 1543  ./a.out 
+ 1544  g++ 2.cpp 
+ 1545  ./a.out 
+ 1546  g++ 2.cpp 
+ 1547  ./a.out 
+ 1548  g++ 2.cpp 
+ 1549  ./a.out 
+ 1550  g++ 2.cpp 
+ 1551  ./a.out 
+ 1552  cd Documents/workspace/test2/
+ 1553  nvcc block.cu
+ 1554  clear
+ 1555  nvcc block.cu
+ 1556  clear
+ 1557  nvcc block.cu
+ 1558  clear
+ 1559  g++ t.cpp 
+ 1560  cd Documents/velvet/velvet_original/
+ 1561  ./velveth output6 15 t1.fa 
+ 1562  gnome-search-tool
+ 1563  python
+ 1564  clear
+ 1565  sudo apt-get install python-setuptools
+ 1566  sudo easy_install virtualenv
+ 1567  ls
+ 1568  mkdir django
+ 1569  cd django/
+ 1570  virtualenv --no-site-packages django-anuj
+ 1571  ls
+ 1572  cd django-anuj/
+ 1573  cd ..
+ 1574  source django-anuj/bin/activate
+ 1575  cd django-anuj/
+ 1576  ls
+ 1577  easy_install Django
+ 1578  ls -l bin/
+ 1579  which python
+ 1580  python --version
+ 1581  django-admin.py 
+ 1582  django-admin.py startproject django-test
+ 1583  django-admin.py startproject django_test
+ 1584  ls -l
+ 1585  cd django_test/
+ 1586  ls l
+ 1587  ls -l
+ 1588  python manage.py renserver
+ 1589  python manage.py runserver
+ 1590  clear
+ 1591  python manage.py startapp article
+ 1592  ls -l
+ 1593  cd article/
+ 1594  ls -l
+ 1595  cd ..
+ 1596  python manage.py startapp article
+ 1597  python manage.py syncdb
+ 1598  manage.py makemigrations
+ 1599  ls
+ 1600  python manage.py makemigrations
+ 1601  python manage.py migrate
+ 1602  python manage.py syncdb
+ 1603  python manage.py sql
+ 1604  python manage.py sql article/
+ 1605  python manage.py sql article
+ 1606  python manage.py sqlmigrate article
+ 1607  clear
+ 1608  python manage.py shell
+ 1609  mpicc
+ 1610  sudo apt-get install libopenmpi-dev
+ 1611  mpicc
+ 1612  cd Documents/velvet/velvet_1.2.07_original/
+ 1613  ./velveth output4 15 test_reads.fa 
+ 1614  make velveth
+ 1615  ./velveth output4 15 test_reads.fa 
+ 1616  module load mpi/openmpi/1.6-gcc-sys
+ 1617  module load mpi
+ 1618  clear
+ 1619  cd ..
+ 1620  cd velvet_row_my
+ 1621  rm velveth
+ 1622  make velveth
+ 1623  ./velveth output4 15 test_reads.fa 
+ 1624  cd Documents/velvet/velvet_1.2.07_original/
+ 1625  rm velveth
+ 1626  make velveth
+ 1627  make cleanobj
+ 1628  make velveth
+ 1629  cd ..
+ 1630  cd velvet_original/
+ 1631  make ’OPENMP=1’
+ 1632  ./velveth output4 15 test_reads.fa 
+ 1633  cd ..
+ 1634  cd velvet_1.2.07_original
+ 1635  ls
+ 1636  clear
+ 1637  make 'OPENMP=1'
+ 1638  ./velveth output4 15 test_reads.fa 
+ 1639  clear
+ 1640  make
+ 1641  ./velveth output4 15 test_reads.fa 
+ 1642  make 'OPENMP=1'
+ 1643  ./velveth output4 15 test_reads.fa 
+ 1644  cd ..
+ 1645  cd velvet_row_my
+ 1646  make velveth
+ 1647  rm velveth
+ 1648  make velveth
+ 1649  make velveth 'OPENMP=1'
+ 1650  make velveth 
+ 1651  rm velveth
+ 1652  make velveth 
+ 1653  ./velveth output4 15 test_reads.fa 
+ 1654  make velveth 
+ 1655  rm velveth
+ 1656  make velveth 
+ 1657  ./velveth output4 15 test_reads.fa 
+ 1658  make velveth 'OPENMP=1'
+ 1659  rm velveth
+ 1660  make velveth 'OPENMP=1'
+ 1661  rm velveth
+ 1662  make velveth 
+ 1663  ./velveth output4 15 test_reads.fa 
+ 1664  rm velveth
+ 1665  make velveth 
+ 1666  ./velveth output4 15 test_reads.fa 
+ 1667  cd ..
+ 1668  cd velvet_1.2.07_original
+ 1669  make 
+ 1670  ./velveth output4 15 test_reads.fa 
+ 1671  ./velvetg output4/ -cov_cutoff 4
+ 1672  gprof ./velvetg gmon1.out 
+ 1673  module
+ 1674  module load intel
+ 1675  modprobe
+ 1676  cd Documents/velvet/velvet_1.2.07_original
+ 1677  ./velveth output5 21 uniprot_sprot.fasta 
+ 1678  make ’LONGSEQUENCES=1’
+ 1679  ./velveth output5 21 uniprot_sprot.fasta 
+ 1680  make 'LONGSEQUENCES=1'
+ 1681  ./velveth output5 21 uniprot_sprot.fasta 
+ 1682  cd ..
+ 1683  cd libs/velvet_1.2.07_original
+ 1684  make 'LONGSEQUENCES=1'
+ 1685  cleat
+ 1686  clear
+ 1687  make 'LONGSEQUENCES=1'
+ 1688  y
+ 1689  ./velveth output5 21 uniprot_sprot.fasta 
+ 1690  cd ..
+ 1691  cd velvet_1.2.07
+ 1692  ls
+ 1693  ls -all
+ 1694  make 'LONGSEQUENCES=1'
+ 1695  make clean
+ 1696  make 'LONGSEQUENCES=1'
+ 1697  cd Documents/velvet/velvet_1.2.07_original
+ 1698  make 'LONGSEQUENCES=1'
+ 1699  ./velveth output5 21 uniprot_sprot.fasta 
+ 1700  cd ..
+ 1701  cd .
+ 1702  cd ..
+ 1703  cd RW2/
+ 1704  cd cmake-3.2.0-rc2/
+ 1705  ./bootstrap 
+ 1706  make
+ 1707  make install
+ 1708  su
+ 1709  cd Documents/velvet/velvet_row_my
+ 1710  make velveth 'LONGSEQUENCES=1'
+ 1711  ./velveth output5 21 uniprot_sprot.fasta 
+ 1712  ./velveth output5 21 test_reads.fa 
+ 1713  su
+ 1714  cd Documents/SW/bowtie2-2.2.4
+ 1715  make
+ 1716  cd ..
+ 1717  cd bwa-cuda-bwa-cuda/
+ 1718  make
+ 1719  ./bwasa 
+ 1720  ./bwasa testfile fastqtest.fastq 
+ 1721  cd ..
+ 1722  cd cudasw++v3.1/
+ 1723  make
+ 1724  cd /
+ 1725  ls
+ 1726  cd ~
+ 1727  ls
+ 1728  cd /
+ 1729  locate NVIDIA_GPU_Computing_SDK
+ 1730  cd Documents/
+ 1731  ls
+ 1732  cd SW/cudasw++v3.1/
+ 1733  make
+ 1734  make install
+ 1735  ./cudasw -qprf 1 -query test_reads.fa -num_threads 8 -num_gpus 1
+ 1736  ./cudasw -qprf 1 -query test_reads.fa -db test_reads.fa -num_threads 8 -num_gpus 1
+ 1737  make
+ 1738  ./cudasw -qprf 1 -query test_reads.fa -db test_reads.fa -num_threads 8 -num_gpus 1
+ 1739  ./cudasw -qprf 1 -query test_reads.fa -db test_reads.fa -num_threads 8 -num_gpus 2
+ 1740  make clean
+ 1741  make
+ 1742  ./cudasw -qprf 1 -query test_reads.fa -db test_reads.fa -num_threads 8 -num_gpus 2
+ 1743  nvcc --version
+ 1744  su
+ 1745  clear
+ 1746  gcc4.7
+ 1747  gcc-4.7
+ 1748  clear
+ 1749  cd ..
+ 1750  cd seq-align-master/
+ 1751  make
+ 1752  su
+ 1753  cd Documents/
+ 1754  nvcc 7-bit\ counter.cu
+ 1755  nvprof ./a.out 
+ 1756  nvcc 7-bit\ counter.cu
+ 1757  nvprof ./a.out 
+ 1758  nvcc 7-bit\ counter.cu
+ 1759  nvprof ./a.out 
+ 1760  nvcc 7-bit\ counter.cu
+ 1761  nvprof ./a.out 
+ 1762  nvcc 7-bit\ counter.cu
+ 1763  nvprof ./a.out 
+ 1764  nvcc 7-bit\ counter.cu
+ 1765  nvprof ./a.out 
+ 1766  nvcc 7-bit\ counter.cu
+ 1767  nvprof ./a.out 
+ 1768  nvcc 7-bit\ counter.cu
+ 1769  ps -all
+ 1770  nvcc 7-bit\ counter.cu
+ 1771  nvprof ./a.out 
+ 1772  nvcc 7-bit\ counter.cu
+ 1773  nvprof ./a.out 
+ 1774  nvcc 7-bit\ counter.cu
+ 1775  nvprof ./a.out 
+ 1776  nvcc 7-bit\ counter.cu
+ 1777  nvprof ./a.out 
+ 1778  nvcc 7-bit\ counter.cu
+ 1779  nvprof ./a.out 
+ 1780  nvcc 7-bit\ counter.cu
+ 1781  nvprof ./a.out 
+ 1782  cd /
+ 1783  su
+ 1784  cd Documents/
+ 1785  gcc 7-bit\ LFSR\ counter.c 
+ 1786  g++ 7-bit\ LFSR\ counter.c 
+ 1787  ./A
+ 1788  ./a.out 
+ 1789  g++ -pg 7-bit\ LFSR\ counter.c 
+ 1790  ./a.out 
+ 1791  gprof ./a.out gmon.out 
+ 1792  gprof ./a.out gmon.out > prof.txt
+ 1793  cd OpenAcc/
+ 1794  ./install
+ 1795  su
+ 1796  pgcc
+ 1797  su
+ 1798  pgcc
+ 1799  source /etc/profile.d/pgi.sh
+ 1800  pgcc
+ 1801  sublm
+ 1802  sublime
+ 1803  su
+ 1804  sudo gedit ~/.bashrc
+ 1805  pgcc
+ 1806  pgcc -help
+ 1807  cd Documents/openacc/velvet_1.2.07/
+ 1808  make velveth
+ 1809  make 
+ 1810  make velveth
+ 1811  clear
+ 1812  make velveth
+ 1813  su
+ 1814  cd Documents/openacc/samples/
+ 1815  make
+ 1816  make s0.cpp
+ 1817  	pgc++ -w -O2 -o s0 -Minfo s0.cpp
+ 1818  ./s0 
+ 1819  cd ..
+ 1820  ls
+ 1821  cd openacc/
+ 1822  cd velvet_1.2.07/
+ 1823  make velveth
+ 1824  ./velveth 
+ 1825  ./velveth output5 21 test_reads.fa 
+ 1826  cd Documents/velvet/velvet_row_my
+ 1827  ./velveth output5 21 test_reads.fa 
+ 1828  make velveth
+ 1829  rm velveth
+ 1830  make velveth
+ 1831  cd Documents/
+ 1832  nvcc e0_cipher_5_3.cu 
+ 1833  ./a.out 
+ 1834  nvprof ./a.out 
+ 1835  nvprof ./a.out > out.txt
+ 1836  aria2c http://registrationcenter-download.intel.com/akdlm/irc_nas/3950/cpp_studio_xe_2013_sp1_update2.tgz
+ 1837  sudo apt-get install aria2
+ 1838  aria2c http://registrationcenter-download.intel.com/akdlm/irc_nas/3950/cpp_studio_xe_2013_sp1_update2.tgz
+ 1839  icc
+ 1840  gksudo gedit /etc/profile
+ 1841  cd Documents/cpp_studio_xe_2013_sp1_update2/
+ 1842  sudo bash ./install_GUI.sh
+ 1843  exit
+ 1844  icc
+ 1845  icc -help
+ 1846  cd Documents/velvet/velvet_1.2.07_original
+ 1847  make velveth
+ 1848  ./velveth output5 21 test_reads.fa 
+ 1849  make velveth
+ 1850  ./velveth output5 21 test_reads.fa 
+ 1851  cd ..
+ 1852  cd velvet_icc/
+ 1853  ./velveth output5 21 test_reads.fa 
+ 1854  ./velveth output5 21 test1.fa 
+ 1855  cd Documents/velvet_H_F/velvet_gcc/
+ 1856  make velveth
+ 1857  ./velveth output5 21 test_reads.fa
+ 1858  ./velveth output5 21 test1.fa 
+ 1859  cd Documents/velvet_H_F/velvet_nvcc/
+ 1860  make velveth
+ 1861  ./velveth output5 21 test1.fa 
+ 1862  make velvethclear
+ 1863  clear
+ 1864  make velveth
+ 1865  cd Documents/velvet_H_F/velvet_nvcc/
+ 1866  make velveth
+ 1867  ls
+ 1868  ls velveth
+ 1869  make velveth
+ 1870  ls velveth
+ 1871  ls v
+ 1872  ls 
+ 1873  make velveth
+ 1874  ls 
+ 1875  clear
+ 1876  ./velveth output5 21 test1.fa 
+ 1877  cd ..
+ 1878  cd velvet_openmp_nvcc/
+ 1879  make velveth
+ 1880  rm velveth 
+ 1881  make velveth
+ 1882  ./velveth output5 21 test1.fa 
+ 1883  cd ..
+ 1884  cd velvet_original/
+ 1885  make velveth
+ 1886  ls velveth
+ 1887  clear
+ 1888  cd ...
+ 1889  cd ..
+ 1890  cd velvet_openmp
+ 1891  clear
+ 1892  ./velveth output5 21 test1.fa 
+ 1893  cd ..
+ 1894  cd velvet_gcc
+ 1895  ./velveth output5 21 test1.fa 
+ 1896  make velveth
+ 1897  ./velveth output5 21 test1.fa 
+ 1898  cd ..
+ 1899  cd velvet_openmp
+ 1900  make velveth
+ 1901  ./velveth output5 21 test1.fa 
+ 1902  clear
+ 1903  ./velveth output5 21 test1.fa 
+ 1904  make velveth 'OPENMP=1'
+ 1905  cd Documents/velvet_H_F/velvet_only_openmpi/
+ 1906  ./velveth output5 21 test1.fa 
+ 1907  make 'OPENMP=1'
+ 1908  ./velveth output5 21 test1.fa 
+ 1909  clear
+ 1910  cd ..
+ 1911  cd velvet_1.2.07
+ 1912  cd ..
+ 1913  cd velvet_1.2.07/
+ 1914  c;lear
+ 1915  clear
+ 1916  make 'OPENMP=1'
+ 1917  ./velveth output5 21 test1.fa 
+ 1918  make 'OPENMP=1'
+ 1919  ./velveth output5 21 test1.fa 
+ 1920  cd ..
+ 1921  cd velvet_icc/
+ 1922  clear
+ 1923  ./velveth output5 21 test1.fa 
+ 1924  rm velveth
+ 1925  make velveth
+ 1926  ./velveth output5 21 test1.fa 
+ 1927  cd ..
+ 1928  cd workspace/nw/seq/
+ 1929  clear
+ 1930  gcc nw.cpp main.cpp 
+ 1931  clear
+ 1932  gcc nw.cpp main.cpp 
+ 1933  g++ nw.cpp main.cpp 
+ 1934  ./a.out 
+ 1935  clear
+ 1936  ./a.out 
+ 1937  clear
+ 1938  g++ nw.cpp main.cpp 
+ 1939  ./a.out 
+ 1940  g++ nw.cpp main.cpp 
+ 1941  ./a.out 
+ 1942  g++ nw.cpp main.cpp 
+ 1943  clear
+ 1944  g++ nw.cpp main.cpp 
+ 1945  ./a.out 
+ 1946  g++ nw.cpp main.cpp 
+ 1947  ./a.out 
+ 1948  g++ nw.cpp main.cpp 
+ 1949  ./a.out 
+ 1950  g++ nw.cpp main.cpp 
+ 1951  ./a.out 
+ 1952  g++ nw.cpp main.cpp 
+ 1953  ./a.out 
+ 1954  history
+ 1955  history > out.txt
